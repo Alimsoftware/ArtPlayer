@@ -1,0 +1,42 @@
+const e = {
+  "Video Info": "Informações do Vídeo",
+  Close: "Fechar",
+  "Video Load Failed": "Falha ao carregar o vídeo",
+  Volume: "Volume",
+  Play: "Reproduzir",
+  Pause: "Pausar",
+  Rate: "Velocidade",
+  Mute: "Mudo",
+  "Video Flip": "Inverter Vídeo",
+  Horizontal: "Horizontal",
+  Vertical: "Vertical",
+  Reconnect: "Reconectando",
+  "Show Setting": "Mostrar Configurações",
+  "Hide Setting": "Ocultar Configurações",
+  Screenshot: "Captura de Tela",
+  "Play Speed": "Velocidade de Reprodução",
+  "Aspect Ratio": "Proporção de Tela",
+  Default: "Padrão",
+  Normal: "Normal",
+  Open: "Abrir",
+  "Switch Video": "Alterar Vídeo",
+  "Switch Subtitle": "Alterar Legenda",
+  Fullscreen: "Tela Cheia",
+  "Exit Fullscreen": "Sair da Tela Cheia",
+  "Web Fullscreen": "Tela Cheia Web",
+  "Exit Web Fullscreen": "Sair da Tela Cheia",
+  "Mini Player": "Mini Player",
+  "PIP Mode": "Modo PiP",
+  "Exit PIP Mode": "Sair do Modo PiP",
+  "PIP Not Supported": "Modo PiP não suportado",
+  "Fullscreen Not Supported": "Tela cheia não suportada",
+  "Subtitle Offset": "Atraso da Legenda",
+  "Last Seen": "Visto por último",
+  "Jump Play": "Pular para",
+  AirPlay: "AirPlay",
+  "AirPlay Not Available": "AirPlay indisponível"
+};
+typeof window < "u" && (window["artplayer-i18n-pt-br"] = e);
+export {
+  e as default
+};
